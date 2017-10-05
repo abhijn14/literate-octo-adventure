@@ -862,3 +862,19 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+
+
+
+/* New Added */
+#map {
+  height: 400px;
+  width: 100%;
+ }
+
+
+
+ /* prabhuti logo*/
+ #prabhuti_logo {
+  width: 200px;
+  height: 300px;
+}
