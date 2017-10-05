@@ -870,3 +870,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 400px;
   width: 100%;
  }
+
+
+
+ /* prabhuti logo*/
+ #prabhuti_logo {
+  width: 200px;
+  height: 300px;
+}
